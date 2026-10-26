@@ -1,7 +1,0 @@
-@import "tailwindcss" prefix(tw);
-@import "./custom.css";
-@import "./overrides.css";
-@plugin "daisyui" {
-  themes: all;
-}
-@plugin "@iconify/tailwind4";

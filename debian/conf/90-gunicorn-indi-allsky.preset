@@ -1,3 +1,0 @@
-# Do not auto-start
-# service will be automatically started by gunicorn-indi-allsky.socket
-disable gunicorn-indi-allsky.service

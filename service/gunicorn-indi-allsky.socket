@@ -1,9 +1,0 @@
-[Unit]
-Description=indi-allsky gunicorn socket
-
-[Socket]
-ListenStream=%DB_FOLDER%/%GUNICORN_SERVICE_NAME%.sock
-SocketMode=666
-
-[Install]
-WantedBy=sockets.target

@@ -1,9 +1,0 @@
-# Optional modules
-PyMySQL
-boto3
-apache-libcloud
-google-cloud-storage
-google-api-python-client
-google_auth_oauthlib
-### OCI has old cryptography and pyopenssl requirements
-#oci
